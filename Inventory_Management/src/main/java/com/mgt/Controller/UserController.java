@@ -1,7 +1,6 @@
 package com.mgt.Controller;
 
 import com.mgt.Model.User;
-import com.mgt.Repository.UserRepo;
 import com.mgt.Service.UserService;
 import com.mgt.dto.LoginRequest;
 import com.mgt.dto.ResetPassword;
